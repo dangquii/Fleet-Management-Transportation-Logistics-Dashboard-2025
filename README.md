@@ -31,12 +31,11 @@ Small-to-mid-sized carriers often run their fleets from spreadsheets, leaving de
 
 ---
 
-## Repository Structure
-/data/ sample_freight_dataset.csv (5 000 rows)
-/dashboard/ Freight Excel Dashboard Analysis.xlsx
-/images/ screenshots for README & LinkedIn posts
-/README.md you’re here
-
+## 📂 Repository Structure
+/data/            sample_freight_dataset.csv (5 000 rows)  
+/dashboard/       Freight Excel Dashboard Analysis.xlsx  
+/images/          screenshots for README & LinkedIn posts  
+/README.md        you’re here  
 
 ---
 
@@ -46,8 +45,6 @@ Small-to-mid-sized carriers often run their fleets from spreadsheets, leaving de
 | **Microsoft Excel** | 365 or 2019+ (Windows or macOS) |
 | **Memory** | < 50 MB RAM while open |
 | No macros or external libraries required.
-
-*(Optional upgrade path: import the same CSV into Power BI or Tableau and recreate visuals 1-for-1.)*
 
 ---
 
