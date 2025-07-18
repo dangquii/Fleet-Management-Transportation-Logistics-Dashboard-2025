@@ -2,6 +2,8 @@
 
 An Excel-based analytics solution that turns raw freight trip records into an interactive, single-page control tower.  
 It reveals cost drivers, labour mix, trip productivity and cargo utilisation—without requiring any paid BI platform.
+![Interactive freight dashboard](images/dashboard.png)
+
 
 ---
 
@@ -28,15 +30,7 @@ Small-to-mid-sized carriers often run their fleets from spreadsheets, leaving de
 - **Calculated fields** surface on-time %, hired-transport cost delta, one-way vs return efficiency.
 - **One-click PDF export** for board packs; file opens read-only in any modern Excel install.
 - **Clean UI theme** (rounded tiles, soft shadows) modelled on enterprise BI design.
-
----
-
-## 📂 Repository Structure
-/data/            sample_freight_dataset.csv (5 000 rows)  
-/dashboard/       Freight Excel Dashboard Analysis.xlsx  
-/images/          screenshots for README & LinkedIn posts  
-/README.md        you’re here  
-
+  
 ---
 
 ## Requirements
