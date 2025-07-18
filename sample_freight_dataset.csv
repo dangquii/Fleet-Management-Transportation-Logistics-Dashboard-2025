@@ -1,0 +1,25 @@
+N,Date,Year,Month,Day,Driver,Buddy,Vehicle,Distance (km),Trip Classify,Distance Traveled,From,To,Goods,Driver wage/trip,Buddy wage/trip,Driver Salary,Buddy Salary,Weight (Tons),Hired Transportation
+1,"Saturday, January 01, 2022",2022,Jan,1,Antoni,Mike,72-0466/0467,25,Close, Return,Xunthai,Gidec,Woodchip, ฿ 400 , ฿ 400 , ฿ 400 , ฿ 400 ,14, No
+2,"Tuesday, February 01, 2022",2022,Feb,1,Jaison,Mike,72-1001/1002,15,Close, Return,Port Said,Safeskin,Woodpellet, ฿ 400 , ฿ 100 , ฿ 400 , ฿ 100 ,11, No
+3,"Tuesday, March 01, 2022",2022,Mar,1,Antoni,Mike,72-0466/0467,65,Far, Return,Gidec,Suies,Woodchip, ฿ 600 , ฿ 100 , ฿ 600 , ฿ 100 ,15, No
+4,"Friday, April 01, 2022",2022,Apr,1,Jaison,Mike,72-1001/1002,44,Regular, One-Way,Safeskin,X1 Port,Woodpellet, ฿ 400 , ฿ 100 , ฿ 400 , ฿ 100 ,13, No
+5,"Sunday, May 01, 2022",2022,May,1,Antoni,Lee,72-0466/0467,65,Far, One-Way,Top glove,X1 Port,Woodchip, ฿ 600 , ฿ 100 , ฿ 600 , ฿ 100 ,12, No
+6,"Wednesday, June 01, 2022",2022,Jun,1,Jaison,Mike,72-1001/1002,80,Far, One-Way,Alex,Top glove,Woodpellet, ฿ 800 , ฿ 100 , ฿ 800 , ฿ 100 ,11, No
+7,"Friday, July 01, 2022",2022,Jul,1,Antoni,Lee,72-0466/0467,25,Close, One-Way,Giza,X1 Port,Woodchip, ฿ 400 , ฿ 150 , ฿ 400 , ฿ 150 ,18, No
+8,"Monday, August 01, 2022",2022,Aug,1,Jaison,Lee,72-1001/1002,25,Close, Return,Gidec,Safeskin,Woodpellet, ฿ 400 , ฿ 100 , ฿ 400 , ฿ 100 ,13, Yes
+9,"Thursday, September 01, 2022",2022,Sep,1,Antoni,Lee,72-0466/0467,25,Close, One-Way,Safeskin,Mina,Woodchip, ฿ 400 , ฿ 100 , ฿ 400 , ฿ 100 ,15, Yes
+10,"Saturday, October 01, 2022",2022,Oct,1,Jaison,Mike,72-1001/1002,25,Close, One-Way,Air Port,X1 Port,Woodpellet, ฿ 400 , ฿ 200 , ฿ 400 , ฿ 200 ,14, No
+11,"Tuesday, November 01, 2022",2022,Nov,1,Antoni,Mike,72-0466/0467,25,Close, One-Way,Xunthai,Gidec,Woodchip, ฿ 400 , ฿ 400 , ฿ 400 , ฿ 400 ,12, No
+12,"Thursday, December 01, 2022",2022,Dec,1,Jaison,Mike,72-1001/1002,15,Close, One-Way,PT,Safeskin,Woodpellet, ฿ 400 , ฿ 100 , ฿ 400 , ฿ 100 ,9, No
+13,"Saturday, January 01, 2022",2022,Jan,1,Antoni,Mike,72-0466/0467,25,Close, Return,Xunthai,Gidec,Woodchip, ฿ 400 , ฿ 400 , ฿ 400 , ฿ 400 ,14, No
+14,"Tuesday, February 01, 2022",2022,Feb,1,Jaison,Mike,72-1001/1002,15,Close, Return,Port Said,Safeskin,Woodpellet, ฿ 400 , ฿ 100 , ฿ 400 , ฿ 100 ,11, Yes
+15,"Tuesday, March 01, 2022",2022,Mar,1,Antoni,Mike,72-0466/0467,65,Far, Return,Gidec,Suies,Woodchip, ฿ 600 , ฿ 100 , ฿ 600 , ฿ 100 ,15, No
+16,"Tuesday, March 01, 2022",2022,Mar,1,Jaison,Mike,72-1001/1002,44,Regular, One-Way,Safeskin,X1 Port,Woodpellet, ฿ 400 , ฿ 100 ,,,13, No
+17,"Tuesday, March 01, 2022",2022,Mar,1,Antoni,Lee,72-0466/0467,65,Far, One-Way,Top glove,X1 Port,Woodchip, ฿ 600 , ฿ 100 ,,,12, No
+18,"Wednesday, June 01, 2022",2022,Jun,1,Jaison,Lee,72-1001/1002,80,Far, One-Way,Alex,Top glove,Woodpellet, ฿ 800 , ฿ 100 , ฿ 800 , ฿ 100 ,11, No
+19,"Friday, July 01, 2022",2022,Jul,1,Antoni,Lee,72-0466/0467,25,Close, One-Way,Giza,X1 Port,Woodchip, ฿ 400 , ฿ 150 , ฿ 400 , ฿ 150 ,18, No
+20,"Monday, August 01, 2022",2022,Aug,1,Jaison,Lee,72-1001/1002,25,Close, Return,Gidec,Safeskin,Woodpellet, ฿ 400 , ฿ 100 , ฿ 400 , ฿ 100 ,13, Yes
+21,"Monday, August 01, 2022",2022,Aug,1,Antoni,Lee,72-0466/0467,25,Close, One-Way,Safeskin,Mina,Woodchip, ฿ 400 , ฿ 100 ,,,15, Yes
+22,"Saturday, October 01, 2022",2022,Oct,1,Jaison,Mike,72-1001/1002,25,Close, One-Way,Air Port,X1 Port,Woodpellet, ฿ 400 , ฿ 200 , ฿ 400 , ฿ 200 ,14, No
+23,"Saturday, October 01, 2022",2022,Oct,1,Antoni,Mike,72-0466/0467,25,Close, One-Way,Xunthai,Gidec,Woodchip, ฿ 400 , ฿ 400 ,,,12, No
+24,"Saturday, October 01, 2022",2022,Oct,1,Jaison,Mike,72-1001/1002,15,Close, One-Way,PT,Safeskin,Woodpellet, ฿ 400 , ฿ 100 ,,,9, No
