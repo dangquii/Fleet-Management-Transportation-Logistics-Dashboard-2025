@@ -2,7 +2,8 @@
 
 An Excel-based analytics solution that turns raw freight trip records into an interactive, single-page control tower.  
 It reveals cost drivers, labour mix, trip productivity and cargo utilisation—without requiring any paid BI platform.
-![Interactive freight dashboard](images/dashboard.png)
+
+![Interactive freight dashboard] (interactiveexceldashboard.png)
 
 
 ---
