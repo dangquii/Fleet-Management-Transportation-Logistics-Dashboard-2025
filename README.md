@@ -5,12 +5,12 @@ It reveals cost drivers, labour mix, trip productivity and cargo utilisation—w
 
 ---
 
-## 📦 Problem Addressed  
+## Problem Addressed  
 Small-to-mid-sized carriers often run their fleets from spreadsheets, leaving decision-makers blind to empty-mile cost, labour overruns and seasonal expense spikes. Industry studies estimate **20–35 %** of truck kilometres are still driven empty and that fuel + labour routinely consume **65–70 %** of total operating cost. This dashboard converts everyday trip logs into actionable KPIs so managers can close those gaps.
 
 ---
 
-## 🎯 Key Metrics Visualised
+## Key Metrics Visualised
 | Category | KPIs |
 |----------|------|
 | **Trips** | Total trips, one-way vs return count, outsourced (hired) trips |
@@ -22,7 +22,7 @@ Small-to-mid-sized carriers often run their fleets from spreadsheets, leaving de
 
 ---
 
-## ✨ Features
+## Features
 - **Single-screen dashboard** with KPI cards, donut gauges, sparklines, bar & line charts.
 - **Interactive slicers** for Driver, Month and Trip Class—no VBA, no add-ins.
 - **Calculated fields** surface on-time %, hired-transport cost delta, one-way vs return efficiency.
@@ -31,16 +31,16 @@ Small-to-mid-sized carriers often run their fleets from spreadsheets, leaving de
 
 ---
 
-## 📂 Repository Structure
-/data/ 🗄️ sample_freight_dataset.csv (5 000 rows)
-/dashboard/ 📊 Fleet_Logistics_Dashboard.xlsx
-/images/ 🖼️ screenshots for README & LinkedIn posts
-/README.md 📖 you’re here
+## Repository Structure
+/data/ sample_freight_dataset.csv (5 000 rows)
+/dashboard/ Freight Excel Dashboard Analysis.xlsx
+/images/ screenshots for README & LinkedIn posts
+/README.md you’re here
 
 
 ---
 
-## 🛠️  Requirements
+## Requirements
 | Software | Version |
 |----------|---------|
 | **Microsoft Excel** | 365 or 2019+ (Windows or macOS) |
@@ -51,17 +51,17 @@ Small-to-mid-sized carriers often run their fleets from spreadsheets, leaving de
 
 ---
 
-## 🚀  Quick Start  
+## Quick Start  
 
 1. **Download** or clone this repo.  
-2. Open `dashboard/Fleet_Logistics_Dashboard.xlsx`.  
+2. Open `Freight Excel Dashboard Analysis.xlsx`.  
 3. If prompted, **enable editing** (read-only is fine for viewing).  
 4. Use the slicers on the left panel to filter by driver, month or trip class.  
 5. Export a PDF: **File → Export → Create PDF/XPS → Active Sheet**.
 
 ---
 
-## 📝  Data Schema (`sample_freight_dataset.csv`)
+## Data Schema (`sample_freight_dataset.csv`)
 
 | Column | Sample | Description |
 |--------|--------|-------------|
@@ -79,7 +79,7 @@ Small-to-mid-sized carriers often run their fleets from spreadsheets, leaving de
 
 ---
 
-## 💡  Business Value
+## Business Value
 - **5–15 % logistics-cost reduction** potential by spotlighting high-cost lanes, empty-mile exposure and overtime spikes.  
 - **Faster decisions**: finance, operations and fleet planning share one live source of truth.  
 - **Scalable**: same model can connect to SQL/Power BI when row counts grow.
